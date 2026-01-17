@@ -1,0 +1,391 @@
+---
+title: "CUET UG 2026"
+subtitle: "Complete Guide to Registration & Smart Choices"
+author: "Career Guidance Session By Dr. Ajay Kumar Koli <br>The Ambedkar Educational Society, Sonipat"
+format:
+  revealjs:
+    theme: sky
+    transition: slide
+    slide-number: true
+    chalkboard: true
+    logo: ""
+    footer: "CUET UG 2026 - Your Gateway to Dream University"
+    incremental: false
+    smaller: false
+    scrollable: true
+---
+
+## What is CUET? {background-color="#1e3a8a"}
+
+::: {.columns}
+::: {.column width="50%"}
+**Common University Entrance Test**
+
+- One exam, Multiple universities
+- Conducted by NTA
+- 250+ Universities accept it
+- Replaced individual exams
+:::
+
+::: {.column width="50%"}
+**Why It Matters:**
+
+✅ Less stress, fewer exams  
+✅ More university options  
+✅ Fair evaluation  
+✅ Save time & money  
+:::
+:::
+
+::: {.notes}
+Emphasize that this is a game-changer for students - one exam opens doors to multiple universities across India.
+:::
+
+---
+
+## CUET Exam Pattern {background-color="#ffffff"}
+
+### Three Main Sections
+
+| Section | Details | Options |
+|---------|---------|---------|
+| **I** | Languages | 13 languages - Choose 1 |
+| **II** | Domain Subjects | 23 subjects - Choose up to 3 |
+| **III** | General Test | 01 General Aptitude Test |
+
+<br>
+
+::: {.fragment}
+**Key Point:** Choose subjects based on your desired course!
+:::
+
+---
+
+## Important Dates 📅 {.smaller}
+
+::: {.incremental}
+- 📝 **Registration Opens:** 03 Jan 2026
+- 📝 **Last Date of Online Application:** 30 Jan 2026
+- 📝 **Last Date of Successful Payment:** 31 Jan 2026 11:50 PM
+- 📝 **Correction Window:** 2-4 Feb 2026 11:50 PM
+- 📝 **Exam Dates:** Usually May
+- 📝 **Results:** Usually July
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+::: {.callout-warning}
+## ⏰ Important!
+Register early to avoid last-minute technical issues!
+:::
+:::
+
+---
+
+## Before You Start, Keep These Ready: {background-color="#f0f9ff"}
+
+::: {.columns}
+::: {.column width="50%"}
+**Documents:**
+
+- Class 10th & 12th Marks
+- Aadhar Card
+- Category Certificate (if applicable)
+- PwD Certificate (if applicable)
+:::
+
+::: {.column width="50%"}
+**Digital Files:**
+
+- Passport photo (digital)
+- Signature (digital)
+- **Valid email & mobile**
+- Parent's details
+:::
+:::
+
+::: {.fragment}
+💡 **Pro Tip:** Scan all documents in advance!
+:::
+
+---
+
+## Registration Process {.smaller}
+
+::: {.incremental}
+1. **Visit:** <https://cuet.nta.nic.in/>
+2. **Create Account** - Verify mobile & email (OTP)
+3. **Fill Application** - Personal & academic details
+4. **Choose Languages & Subjects** ⭐ *Most Important*
+5. **Pay Fee & Submit**
+:::
+
+<br>
+
+::: {.fragment}
+::: {.callout-tip}
+Save your Application Number & Password safely!
+:::
+:::
+
+---
+
+## How to Choose Languages {background-color="#ecfdf5"}
+
+### Section I: 13 Languages
+
+**Rules:**
+
+- Minimum 1 language required
+- Maximum 2 languages allowed
+- Choose languages you're comfortable with
+
+<br>
+
+::: {.fragment}
+**Strategy:** Choose your strongest language + Check university requirements
+:::
+
+---
+
+## Domain Subjects - The Key Decision! {background-color="#fef3c7"}
+
+### 23 Domain Subjects Available
+
+::: {.callout-important}
+## Critical Rules
+- Choose subjects relevant to your desired course
+- Maximum 3 subjects
+- Must have studied them in Class 12
+- **Syllabus as per NCERT**
+:::
+
+<br>
+
+::: {.fragment}
+**Don't choose randomly - Each subject matters!**
+:::
+
+---
+
+## 3-Step Subject Selection Strategy
+
+::: {.incremental}
+1. **Know Your Goal**
+   - Which course do you want?
+   - Which universities offer it?
+
+2. **Check University Requirements**
+   - Each university lists mandatory subjects
+   - Visit official websites
+
+3. **Choose Smartly**
+   - Subjects you're strong in
+   - Required by target universities
+   - Keep multiple options open
+:::
+
+---
+
+## Popular Universities Through CUET {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+**Central Universities:**
+
+- Delhi University (DU)
+- JNU
+- IP
+- Jamia Millia Islamia
+- Ambedkar University
+- University of Hyderabad
+- Central Univ. of Punjab
+:::
+
+::: {.column width="50%"}
+**Also Accept CUET:**
+
+- Many State Universities
+- Private Universities: [TISS](https://tiss.ac.in/) & [APU](https://azimpremjiuniversity.edu.in/)
+- Check updated list on portal
+:::
+:::
+
+::: {.fragment}
+**Visit each university's website for specific requirements!**
+:::
+
+## Common Mistakes to AVOID ❌ {.smaller}
+
+::: {.incremental}
+- ❌ Wrong subject selection (not matching requirements)
+- ❌ Choosing too many subjects (focus on relevant ones)
+- ❌ Not checking university-specific requirements
+- ❌ Wrong photo/signature format
+- ❌ Incorrect category selection
+- ❌ Not keeping application number safe
+- ❌ Waiting till last date
+- ❌ Not using correction window
+:::
+
+## After Registration {background-color="#ecfdf5"}
+
+### What Next?
+
+::: {.incremental}
+📝 Download Application Form  
+📝 Take multiple printouts  
+📝 Note Exam Center preferences  
+📝 Download Admit Card (when available)  
+
+**Preparation:**
+
+📚 Study CUET syllabus  
+📚 Focus on chosen subjects  
+📚 Practice mock tests (NTA website)  
+📚 Master time management  
+:::
+
+---
+
+## Correction Window {background-color="#fff7ed"}
+
+**Opens after registration closes**
+
+::: {.columns}
+::: {.column width="50%"}
+**Can Correct:**
+
+✅ Personal details (limited)  
+✅ Subject choices  
+✅ Exam city  
+✅ Category details  
+:::
+
+::: {.column width="50%"}
+**Cannot Correct:**
+
+❌ Name  
+❌ Date of Birth  
+❌ Gender  
+❌ Nationality  
+❌ Email  
+❌ Mobile Number
+:::
+:::
+
+::: {.fragment}
+⚠️ Correction fee may apply!
+:::
+
+---
+
+## Quick Checklist {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+**Before Filling:**
+
+☐ Decided career/course  
+☐ Researched universities  
+☐ Checked requirements  
+☐ Documents ready  
+☐ Photos scanned  
+:::
+
+::: {.column width="50%"}
+**After Submission:**
+
+☐ Payment confirmed  
+☐ Application downloaded  
+☐ Printout taken  
+☐ App number saved  
+☐ Preparation started  
+:::
+:::
+
+---
+
+## Final Checklist - Day of Submission {.smaller}
+
+### Before Clicking Submit:
+
+::: {.incremental}
+1. ✅ Verified all personal details
+2. ✅ Rechecked subject selection
+3. ✅ Confirmed all university choices
+4. ✅ Documents uploaded correctly
+5. ✅ Photo and signature clear
+6. ✅ Category details correct (if applicable)
+7. ✅ Payment details ready
+8. ✅ Screenshots taken of each page
+:::
+
+::: {.fragment}
+**Only then click SUBMIT!**
+:::
+
+---
+
+## Live Demo Time! {background-color="#fef3c7"}
+
+### Let's Navigate Together:
+
+::: {.incremental}
+1. Open <https://cuet.nta.nic.in/>
+2. Explore the registration page
+3. Look at subject options
+4. Check documents list
+5. See sample forms
+6. Understand the interface
+:::
+
+::: {.fragment}
+***Let's do a live walkthrough***
+:::
+
+---
+
+## Action Plan for Next 7 Days {.smaller}
+
+<br>
+
+| Day | Task |
+|-----|------|
+| **Day 1-2** | Research courses & universities |
+| **Day 3** | Finalize subject choices |
+| **Day 4** | Gather all documents |
+| **Day 5** | Scan photos & signature |
+| **Day 6** | Fill registration form |
+| **Day 7** | Review, pay & submit |
+
+---
+
+## {background-color="#ffffff" .center}
+
+::: {style="text-align: center; padding: 100px; font-size: 2em;"}
+
+**Questions?**
+
+Let's discuss your individual concerns!
+
+:::
+
+---
+
+##  {background-color="#10b981" .center}
+
+::: {style="color: white; text-align: center; padding: 60px; font-size: 1.2em;"}
+
+### Thank You!
+### Stay Connected
+
+[🌐 Dr. Ajay Koli, Data Science Educator at SARA]{.r-fit-text}
+
+📧 Email: koliajaykumar@gmail.com
+
+📱 Phone: 925 315 2024
+
+**All the best for CUET UG 2025!** 🎓
+:::
